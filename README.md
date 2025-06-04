@@ -3,7 +3,7 @@
 
 ## 🧾 Descripción del Proyecto
 
-Este proyecto forma parte del máster en **[nombre de tu máster]** y tiene como objetivo analizar el comportamiento de ventas de diferentes sucursales de Starbucks durante el año 2025. Para ello se ha utilizado **Google Sheets** como herramienta principal de análisis, permitiendo generar gráficos dinámicos, tablas resumen y un dashboard visual dentro del mismo entorno de hojas de cálculo.
+Este proyecto tiene como objetivo analizar el comportamiento de ventas de diferentes sucursales de Starbucks durante el año 2025. Para ello se ha utilizado **Google Sheets** como herramienta principal de análisis, permitiendo generar gráficos dinámicos, tablas resumen y un dashboard visual dentro del mismo entorno de hojas de cálculo.
 
 ## 📁 Contenido del Dataset
 
@@ -52,19 +52,18 @@ El dashboard incluirá:
 ## 🛠 Herramientas Utilizadas
 
 - **Google Sheets**: limpieza de datos, análisis, visualización y dashboard.
-- **Funciones de Google Sheets**: `QUERY`, `FILTER`, `SUMIF`, `IMPORTRANGE`, `SPARKLINE`, entre otras.
 - **Gráficos dinámicos**: líneas, barras, pastel, KPI y segmentación por filtros.
 
 ## 📂 Estructura del Proyecto
 
 ```
 📦 Proyecto_Starbucks_2025
-├── Hoja 1: Base de Datos
-├── Hoja 2: Tablas Dinámicas
-├── Hoja 3: Gráficos
-└── Hoja 4: Dashboard
+├── Archivo README.md
+├── URL para el acceso al archivo de Google Sheets
+├── URL de la página web desde donde se han descargado los datos
+└── Archivo `ventas_starbucks_2025.csv`con los datos originales con los que hemos trabajado 
 ```
 
 ## 📌 Créditos
 
-Proyecto desarrollado por **Sara Peguero Santos**, como parte del máster en **[Nombre del Máster / Universidad]**.
+Proyecto desarrollado por **Sara Peguero Santos**.
