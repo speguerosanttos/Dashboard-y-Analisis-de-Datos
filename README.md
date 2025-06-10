@@ -55,37 +55,37 @@ Este dashboard proporciona una visión integral del rendimiento de las operacion
 
 #### **1. Rendimiento General y Financiero**
 
-* **Ganancias Sólidas:** Se observa un volumen total de ganancias significativo, superando los **$25.8 millones**, lo que indica una operación rentable y una buena base de ingresos.
-* **Base de Clientes Miembros Estable:** Con **2450 clientes miembros**, existe una base leal y potencialmente recurrente que puede ser capitalizada a través de programas de fidelización.
-* **Ganancia Promedio por Transacción Consistente:** La ganancia promedio de **$5.164,75** por transacción sugiere un buen valor por cliente.
-* **Tiempo de Preparación Eficiente:** El tiempo promedio de preparación de **8,56 minutos** es un indicador positivo de la eficiencia operativa, lo que probablemente contribuye a una mejor experiencia del cliente.
+- **Ganancias Sólidas:** Se observa un volumen total de ganancias significativo, superando los **$25.8 millones**, lo que indica una operación rentable y una buena base de ingresos.
+- **Sólida Base de Clientes Miembros:** La existencia de **2450 clientes miembros** representa un activo valioso, sugiriendo una base de clientes leal con alto potencial de recurrencia y programas de fidelización.
+- **Ganancia Promedio por Transacción Consistente:** La ganancia promedio de **$5.164,75** por transacción sugiere un buen valor por cliente.
+- **Tiempo de Preparación Eficiente:** El tiempo promedio de preparación de **8,56 minutos** es un indicador positivo de la eficiencia operativa, lo que probablemente contribuye a una mejor experiencia del cliente.
 
 #### **2. Desempeño por Sucursales y Geografía**
 
-* **Concentración de Operaciones en Argentina:** El mapa de calor global destaca claramente que las operaciones representadas en este dashboard están fuertemente concentradas en Argentina, con un alto volumen de ventas en varias provincias.
-* **Sucursales de Alto Rendimiento:** Las sucursales de **"Avenida Colón 668"**, **"Calle San Lorenzo 47"**, **"Córdoba Shopping"** y **"San Lorenzo 25, Nueva Córdoba"** son las que generan consistentemente el mayor volumen de ganancias, indicando su éxito y quizás su ubicación estratégica o la demanda local. La sucursal "Avenida Colón 668" destaca ligeramente como la de mayores ganancias.
+- **Concentración de Operaciones en Argentina:** El mapa geográfico destaca claramente que las operaciones representadas en este dashboard están fuertemente concentradas en Argentina, con un alto volumen de ventas en varias provincias.
+- **Sucursales de Alto Rendimiento:** Las sucursales de **"Avenida Colón 668"**, **"Calle San Lorenzo 47"**, **"Córdoba Shopping"** y **"San Lorenzo 25, Nueva Córdoba"** son las que generan consistentemente el mayor volumen de ganancias, indicando su éxito y quizás su ubicación estratégica o la demanda local. La sucursal **"Avenida Colón 668"** destaca ligeramente como la de mayores ganancias.
 
 #### **3. Análisis de Productos**
 
-* **Dominio del Té Caliente y Café en Granos:** El **"Té Caliente"** y el **"Café en Granos"** son consistentemente los productos más vendidos, lo que sugiere una fuerte preferencia del cliente por estas categorías. Esto podría guiar futuras estrategias de inventario y marketing.
-* **Popularidad de la Categoría Bakery:** La categoría **"Bakery"** se posiciona como el tercer producto más vendido, complementando bien las bebidas y ofreciendo oportunidades para combos y promociones.
+- **Dominio del Té Caliente y Café en Granos:** El **"Té Caliente"** y el **"Café en Granos"** son consistentemente los productos más vendidos, lo que sugiere una fuerte preferencia del cliente por estas categorías. Esto podría guiar futuras estrategias de inventario y marketing.
+- **Popularidad de la Categoría Bakery:** La categoría **"Bakery"** se posiciona como el tercer producto más vendido, complementando bien las bebidas y ofreciendo oportunidades para combos y promociones.
 
 #### **4. Tendencias de Ventas a lo Largo del Tiempo**
 
-* **Estabilidad con Fluctuaciones Diarias:** Las ventas diarias muestran una tendencia general relativamente estable entre enero y abril de 2025, con fluctuaciones diarias esperadas. Esto sugiere una demanda constante, aunque no se observan picos o valles estacionales drásticos en este período.
-* **Oportunidad de Análisis de Picos y Valles:** Identificar los días de mayor y menor venta podría ayudar a optimizar la dotación de personal y las promociones.
+- **Estabilidad con Fluctuaciones Diarias:** Las ventas diarias muestran una tendencia general relativamente estable entre enero y abril de 2025, con fluctuaciones diarias esperadas. Esto sugiere una demanda constante, aunque no se observan picos o valles estacionales drásticos en este período.
+- **Oportunidad de Análisis de Picos y Valles:** Identificar los días de mayor y menor venta podría ayudar a optimizar la dotación de personal y las promociones.
 
 #### **5. Rendimiento del Personal**
 
-* **Consistencia en el Rendimiento por Empleado y Turno:** El análisis del rendimiento por turno y empleado muestra una distribución relativamente equilibrada de las ventas entre los empleados.
-* **Turno de Mañana y Tarde Destacados:** Generalmente, los turnos de "Mañana" y "Tarde" contribuyen significativamente a las ventas totales de cada empleado, con el turno de "Noche" siendo consistentemente el de menor volumen, lo cual es esperable.
-* **Rendimiento Destacado de Sofía:** Sofía muestra el volumen de ventas más alto en total (**929**), aunque los demás empleados también contribuyen de manera sólida.
+- **Consistencia en el Rendimiento por Empleado y Turno:** El análisis del rendimiento por turno y empleado muestra una distribución relativamente equilibrada de las ventas entre los empleados.
+- **Turno de Mañana y Tarde Destacados:** Generalmente, los turnos de "Mañana" y "Tarde" contribuyen significativamente a las ventas totales de cada empleado, con el turno de "Noche" siendo consistentemente el de menor volumen, lo cual es esperable.
+- **Rendimiento Destacado de Sofía:** Sofía muestra el volumen de ventas más alto en total (**929**), aunque los demás empleados también contribuyen de manera sólida.
 
 #### **6. Impacto de Promociones y Satisfacción del Cliente**
 
-* **Atracción de No-Miembros por Promociones:** Las promociones como "2x1" y "Combo" parecen atraer ligeramente más a los **"Clientes No Miembros"**, lo que indica su efectividad para captar nuevos clientes o aquellos menos fidelizados.
-* **Efectividad de "Happy Hour":** La promoción **"Happy Hour"** tiene un impacto positivo tanto en clientes miembros como no miembros, aunque con un balance similar.
-* **Correlación entre Demora y Satisfacción:** No se observa una correlación clara o una caída drástica en el nivel de satisfacción del cliente en relación directa con el tiempo de preparación. Esto sugiere que, dentro de los rangos de tiempo observados, la calidad del servicio se mantiene. El nivel promedio de satisfacción parece mantenerse alrededor de **3** en una escala de 1 a 5, lo que podría ser un área de mejora si se busca alcanzar niveles más altos de satisfacción.
+- **Atracción de No-Miembros por Promociones:** Las promociones como **"2x1"** y **"Combo"** parecen atraer ligeramente más a los **"Clientes No Miembros"**, lo que indica su efectividad para captar nuevos clientes o aquellos menos fidelizados.
+- **Efectividad de "Happy Hour":** La promoción **"Happy Hour"** tiene un impacto positivo tanto en clientes miembros como no miembros, aunque con un balance similar.
+- **Correlación entre Demora y Satisfacción:** No se observa una correlación clara o una caída drástica en el nivel de satisfacción del cliente en relación directa con el tiempo de preparación. Esto sugiere que, dentro de los rangos de tiempo observados, la calidad del servicio se mantiene. El nivel promedio de satisfacción parece mantenerse alrededor de **3** en una escala de 1 a 5, lo que podría ser un área de mejora si se busca alcanzar niveles más altos de satisfacción.
 
 ## 🛠 Herramientas Utilizadas
 
